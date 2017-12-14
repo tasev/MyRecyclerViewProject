@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyRecyclerViewProject</string>
+    <string name="title_activity_main_navigation">MainNavigationActivity</string>
 </resources>
